@@ -64,27 +64,16 @@ You need [Node.js](https://nodejs.org/) installed on your computer and the [Expo
 
 ## 🤝 Contributing & Issue Tracking
 
-We love contributions! To keep our development clean and organized, please follow these guidelines.
+We love contributions! To keep our development clean and organized, please follow our **Contribution Guidelines**.
 
-### Reporting Issues
+👉 **[Read the Contributing Guide](./CONTRIBUTING.md)**
 
-Before opening a new issue, please check the [existing issues](https://github.com/YOUR_USERNAME/doit-chore-tracker/issues) to avoid duplicates. When opening a new issue, please follow our **Naming Convention**:
+It covers:
 
-> [!TIP]
-> **Issue Naming Convention:** `[TYPE/Component] Short Description`
-> 
-> *   `[Bug/Auth]` Login button not clickable
-> *   `[Feature/UI]` Add Dark Mode support 
-> *   `[Docs/ReadMe]` Fix typo in installation steps
-> *   `[Fix/Rotation]` Correct clockwise shift logic
+- Our **4-Step Development Workflow** (Feature Branches & PRs).
+- **Issue Naming Conventions** (e.g., `[Bug/Auth]`).
+- Code style and how to submit a PR.
 
-### Submitting a PR
-
-1. **Fork** the Project
-2. **Create your Feature Branch** using the same naming scheme: `git checkout -b feature/AmazingFeature`
-3. **Commit your Changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the Branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
 
 ---
 
