@@ -48,9 +48,9 @@ You need [Node.js](https://nodejs.org/) installed on your computer and the [Expo
 
 3. **Set up Firebase** 
    - Create a project on [Firebase Console](https://console.firebase.google.com/).
-   - Add a "Web App" to get your configuration.
-   - Replace the config in `src/services/firebase.js`.
-   - Enable **Firestore** and **Anonymous Authentication**.
+   - Copy the `.env.example` file and rename it to `.env`.
+   - Fill in your own Firebase credentials in the `.env` file.
+   - Enable **Firestore** and **Anonymous Authentication** in the console.
 
 4. **Start the app**
    ```bash
